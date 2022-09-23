@@ -1,4 +1,5 @@
 # pte-docker
+```
 root@sdombi-docker-demo:/home/linux# history
     1  apt update
     2  apt-get install     ca-certificates     curl     gnupg     lsb-release
@@ -119,3 +120,4 @@ root@sdombi-docker-demo:/home/linux# history
   117  docker exec -it 80949f616a9f bash
   118  docker exec -it 80949f616a9f bash
   119  history
+  ```
